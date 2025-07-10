@@ -2,33 +2,31 @@
 
 ## Resumen
 
-Este proyecto propone una idea de inteligencia artificial para resolver un problema específico mediante técnicas de aprendizaje automático. Proyecto de curso de desarrollo de IA.
+Proyecto de curso de desarrollo de IA: Esta idea propone una solución basada en inteligencia artificial para ayudar a mejorar la salud mental en jóvenes y adultos, usando técnicas de aprendizaje automático para detectar signos tempranos de estrés o ansiedad.
 
 ## Antecedentes
 
-Mi idea busca resolver un problema común en mi comunidad relacionado con [describe brevemente el problema]. Este tema es importante porque [explica la motivación personal o social].
+La salud mental es un problema creciente y frecuente en muchas comunidades, incluyendo la mía. Jóvenes y adultos enfrentan estrés, ansiedad y otros trastornos emocionales que afectan su calidad de vida. Mi motivación personal viene de querer contribuir a crear un impacto positivo en mi entorno, apoyando a quienes más lo necesitan. Este tema es importante porque una detección temprana puede salvar vidas y mejorar el bienestar general.
 
 ## ¿Cómo se utiliza?
 
-La solución se usa en [contexto, por ejemplo, aplicaciones móviles, hospitales, etc.] y está destinada a [usuarios o beneficiarios]. El proceso consiste en [explica brevemente cómo se usa].
+La solución se usaría a través de una aplicación móvil o plataforma web donde los usuarios pueden responder breves cuestionarios y recibir retroalimentación automática sobre su estado emocional. La aplicación estaría destinada a jóvenes, adultos y profesionales de la salud mental, facilitando un diagnóstico preliminar y recomendando acciones o ayuda profesional.
 
 ## Fuentes de datos y técnicas de IA
 
-Los datos provienen de [fuentes de datos]. Se utilizarán técnicas como regresión logística, redes neuronales o [otras técnicas] para crear un modelo eficiente.
+Los datos provendrían de encuestas anónimas, registros de salud mental disponibles públicamente y colaboraciones con profesionales para validar la información. Se usarán técnicas como redes neuronales para clasificar estados emocionales basados en respuestas, y aprendizaje supervisado para mejorar la precisión del modelo.
 
 ## Desafíos
 
-Este proyecto no resuelve [menciona limitaciones o problemas que no aborda]. Además, se deben tener en cuenta consideraciones éticas como [menciona algunas].
+Este proyecto no reemplaza el diagnóstico profesional ni trata condiciones médicas complejas. Existen limitaciones en la calidad y privacidad de los datos, además de la necesidad de garantizar la ética y la confidencialidad del usuario. También se debe tener cuidado con falsas alarmas o diagnósticos incorrectos.
 
 ## ¿Qué sigue?
 
-En el futuro, este proyecto podría crecer incorporando [mejoras o ampliaciones], y se necesitará apoyo en [recursos o habilidades necesarias].
+En el futuro, el proyecto podría expandirse integrando sensores biométricos, soporte para más idiomas y colaboración con instituciones de salud mental. Se requerirá experiencia en desarrollo móvil, ética en IA y colaboración con expertos en psicología.
 
 ## Agradecimientos
 
-Agradezco a los creadores de los materiales y recursos de código abierto utilizados para este proyecto.
+Agradezco a los creadores de los materiales y recursos de código abierto utilizados para este proyecto, así como a la comunidad de Elementos de IA por inspirarme a crear soluciones con impacto real.
 
 ---
-
-*Nota: Los repositorios de GitHub enviados como proyectos del curso "Building AI" podrían ser presentados por Reaktor y la Universidad de Helsinki al comunicar el curso en diferentes contextos. Su trabajo siempre se presentará de forma positiva. Los derechos de autor de su trabajo siempre serán suyos. No comparta el trabajo de otros sin una licencia para hacerlo. Al enviar el enlace a su proyecto, usted reconoce su responsabilidad legal por cualquier material que contenga. Lea más en nuestra sección de Términos y Condiciones.*
 
