@@ -2,31 +2,31 @@
 
 ## Resumen
 
-Proyecto de curso de desarrollo de IA: Esta idea propone una solución basada en inteligencia artificial para ayudar a mejorar la salud mental en jóvenes y adultos, usando técnicas de aprendizaje automático para detectar signos tempranos de estrés o ansiedad.
+Este proyecto propone una idea de inteligencia artificial para resolver un problema específico mediante técnicas de aprendizaje automático. Proyecto de curso de desarrollo de IA.
 
 ## Antecedentes
 
-La salud mental es un problema creciente y frecuente en muchas comunidades, incluyendo la mía. Jóvenes y adultos enfrentan estrés, ansiedad y otros trastornos emocionales que afectan su calidad de vida. Mi motivación personal viene de querer contribuir a crear un impacto positivo en mi entorno, apoyando a quienes más lo necesitan. Este tema es importante porque una detección temprana puede salvar vidas y mejorar el bienestar general.
+Mi idea busca resolver un problema común en mi comunidad relacionado con la falta de apoyo personalizado para jóvenes que quieren encontrar su camino profesional. Este tema es importante porque muchos jóvenes se sienten perdidos y necesitan guía para tomar decisiones sobre su futuro.
 
 ## ¿Cómo se utiliza?
 
-La solución se usaría a través de una aplicación móvil o plataforma web donde los usuarios pueden responder breves cuestionarios y recibir retroalimentación automática sobre su estado emocional. La aplicación estaría destinada a jóvenes, adultos y profesionales de la salud mental, facilitando un diagnóstico preliminar y recomendando acciones o ayuda profesional.
+La solución se usa principalmente en aplicaciones móviles o plataformas web, y está destinada a jóvenes estudiantes y orientadores vocacionales. El proceso consiste en recopilar datos sobre intereses, habilidades y preferencias, y luego el modelo de IA sugiere posibles carreras o caminos educativos.
 
 ## Fuentes de datos y técnicas de IA
 
-Los datos provendrían de encuestas anónimas, registros de salud mental disponibles públicamente y colaboraciones con profesionales para validar la información. Se usarán técnicas como redes neuronales para clasificar estados emocionales basados en respuestas, y aprendizaje supervisado para mejorar la precisión del modelo.
+Los datos provienen de encuestas, bases de datos educativas y respuestas de usuarios. Se utilizarán técnicas como redes neuronales y aprendizaje supervisado para crear un modelo eficiente que personalice las recomendaciones.
 
 ## Desafíos
 
-Este proyecto no reemplaza el diagnóstico profesional ni trata condiciones médicas complejas. Existen limitaciones en la calidad y privacidad de los datos, además de la necesidad de garantizar la ética y la confidencialidad del usuario. También se debe tener cuidado con falsas alarmas o diagnósticos incorrectos.
+Este proyecto no resuelve problemas estructurales del sistema educativo ni garantiza que los usuarios sigan las recomendaciones. Además, se deben tener en cuenta consideraciones éticas como la privacidad de los datos y el sesgo en las recomendaciones.
 
 ## ¿Qué sigue?
 
-En el futuro, el proyecto podría expandirse integrando sensores biométricos, soporte para más idiomas y colaboración con instituciones de salud mental. Se requerirá experiencia en desarrollo móvil, ética en IA y colaboración con expertos en psicología.
+En el futuro, este proyecto podría crecer incorporando más datos en tiempo real, integración con consejeros humanos, y soporte para más idiomas. Se necesitará apoyo en desarrollo de software y ética en IA para avanzar.
 
 ## Agradecimientos
 
-Agradezco a los creadores de los materiales y recursos de código abierto utilizados para este proyecto, así como a la comunidad de Elementos de IA por inspirarme a crear soluciones con impacto real.
+Agradezco a los creadores de los materiales y recursos de código abierto utilizados para este proyecto.
 
 ---
 
