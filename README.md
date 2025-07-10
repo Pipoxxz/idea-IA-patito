@@ -1,45 +1,31 @@
- Detección Inteligente de Enfermedades en Plantas
+# Idea de IA - Patito de ojos bellos
 
-Proyecto de curso de desarrollo de IA
+## Resumen
 
- Resumen
+Este proyecto consiste en desarrollar una solución de inteligencia artificial para [describe brevemente tu idea en 2-3 frases].
 
-Este proyecto usa inteligencia artificial para detectar enfermedades en plantas a partir de imágenes de sus hojas. El modelo predice la probabilidad de que una planta esté enferma para ayudar a agricultores a actuar rápido.
+## Antecedentes
 
- Antecedentes
+Aquí describo el problema que quiero resolver, su importancia y motivación personal.
 
-* Las enfermedades en plantas causan grandes pérdidas en la agricultura.
-* La detección temprana es difícil para pequeños agricultores sin acceso a expertos.
-* Mi motivación es ayudar a agricultores de mi comunidad a mejorar sus cultivos y evitar pérdidas.
-* El problema es común en muchas regiones agrícolas del mundo.
+## Cómo se utiliza
 
- Cómo se utiliza
+Explico quién usará esta solución y en qué contexto.
 
-El usuario toma una foto de la hoja de la planta con su celular y sube la imagen a una app móvil. La app usa el modelo de IA para analizar la imagen y muestra la probabilidad de enfermedad y recomendaciones para tratarla.
+## Fuentes de datos y técnicas de IA
 
- Datos y técnicas de IA
+Aquí indico qué datos usaré y qué técnicas de IA aplicaré.
 
-* Datos: Imágenes públicas de hojas sanas y enfermas, recopiladas de bases de datos agrícolas.
-* Técnica: Redes neuronales convolucionales (CNN) para reconocimiento de patrones en imágenes.
-* La IA aprende a diferenciar entre hojas sanas y distintas enfermedades.
+## Desafíos
 
- Desafíos
+Menciono las limitaciones o aspectos que no resolverá el proyecto.
 
-* Calidad variable de las imágenes capturadas por los usuarios.
-* Variabilidad en tipos de plantas y enfermedades según la región.
-* Requiere entrenamiento continuo con datos locales para mejorar precisión.
-* Aspectos éticos: privacidad de los usuarios, uso correcto de los datos.
+## ¿Qué sigue?
 
- ¿Qué sigue?
+Explico posibles futuros pasos para ampliar o mejorar el proyecto.
 
-* Ampliar el modelo para incluir más tipos de plantas.
-* Crear una app móvil con interfaz amigable.
-* Colaborar con expertos agrícolas para validar recomendaciones.
-* Integrar alertas tempranas para comunidades agrícolas.
+## Agradecimientos
 
- Agradecimientos
-
-* Datos de [PlantVillage Dataset](https://plantvillage.psu.edu/)
-* Inspiración en proyectos de IA agrícola open source.
+Doy créditos a quienes hayan inspirado o ayudado en el proyecto.
 
 
