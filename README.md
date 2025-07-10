@@ -4,6 +4,7 @@
 
 Este proyecto propone una idea de inteligencia artificial para resolver un problema específico mediante técnicas de aprendizaje automático. Proyecto de curso de desarrollo de IA.
 
+
 ## Antecedentes
 
 Mi idea busca resolver un problema común en mi comunidad relacionado con la falta de acceso rápido a información confiable sobre salud mental. Este tema es importante porque afecta a muchas personas, especialmente jóvenes, y puede mejorar la calidad de vida al facilitar apoyo oportuno.
